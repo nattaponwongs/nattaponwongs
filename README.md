@@ -4,7 +4,7 @@ My name is **Nattapon Wongsuwan**, you can call me **Pon**,
 ## 💖 Get in touch
 
 👉 [Facebook](https://www.facebook.com/nattapon.wongs/)<br>
-👉 [Email](nattapon.wongs@gmail.com)<br>
+👉 [Email](mailto:nattapon.wongs@gmail.com)<br>
 
 <!--
 **nattaponwongs/nattaponwongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
