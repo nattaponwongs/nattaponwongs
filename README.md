@@ -3,8 +3,9 @@ My name is **Nattapon Wongsuwan**, you can call me **Pon**,
 
 ## 💖 Get in touch
 
-👉 [Facebook](https://www.facebook.com/nattapon.wongs/)<br>
-👉 [Email](mailto:nattapon.wongs@gmail.com)<br>
+👉 [Facebook](https://www.facebook.com/nattapon.wongs/) [Nattapon Wongsuwan]<br>
+👉 [Email](mailto:nattapon.wongs@gmail.com) [nattapon.wongs@gmail.com]<br>
+
 
 <!--
 **nattaponwongs/nattaponwongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
