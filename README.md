@@ -5,7 +5,7 @@ My name is **Nattapon Wongsuwan**, you can call me **Pon**,
 
 ## 💖 Get in touch
 
-👉 [Facebook](https://www.facebook.com/nattapon.wongs/) [Nattapon Wongsuwan]<br>
+👉 [Facebook](https://www.facebook.com/nattapon.wongs/) [https://www.facebook.com/nattapon.wongs/]<br>
 👉 [Email](mailto:nattapon.wongs@gmail.com) [nattapon.wongs@gmail.com]<br>
 <br>
 <!--
